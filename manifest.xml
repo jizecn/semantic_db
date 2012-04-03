@@ -1,0 +1,17 @@
+<package>
+  <description brief="semantic_db">
+
+     semantic_db
+
+  </description>
+  <author>Ze JI</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/semantic_db</url>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
